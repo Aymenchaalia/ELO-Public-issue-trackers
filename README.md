@@ -10,6 +10,6 @@ The latest version of the ontology can always be found at:
 LINK (note this will not show up until the request has been approved by obofoundry.org)
 
 Contact
-Please contact us at (mail)
+Please contact us at (aymenbenchaalia1@gmail.com)
 Acknowledgements
 The development of this ontology is supported by the H3ABioNet Network. H3ABioNet is financed by the National Institutes of Health Common Fund under grant number U41HG006941.
